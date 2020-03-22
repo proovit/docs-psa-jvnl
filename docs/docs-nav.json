@@ -1,35 +1,5 @@
 {
     "items": [
-        {
-            "text": "PSA Finance technical documentation",
-            "items": [
-                {
-                    "text": "IPU",
-                    "items": [
-                        {
-                            "text": "Installation",
-                            "path": "Getting-Started-AspNetCore-MVC-Template.md"
-                        },
-                        {
-                            "text": "Application with Angular UI",
-                            "path": "Getting-Started-Angular-Template.md"
-                        }
-                    ]
-                },
-                {
-                    "text": "From Empty Projects",
-                    "items": [
-                        {
-                            "text": "With ASP.NET Core Web Application",
-                            "path": "Getting-Started-AspNetCore-Application.md"
-                        },
-                        {
-                            "text": "With Console Application",
-                            "path": "Getting-Started-Console-Application.md"
-                        }
-                    ]
-                }
-            ]
-        }
+        
     ]
 }
