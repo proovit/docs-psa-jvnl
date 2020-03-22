@@ -1,2 +1,2 @@
-# Index
+# Indexs
 PSA Finance documentation
