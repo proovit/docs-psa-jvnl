@@ -1,0 +1,22 @@
+﻿{
+    "items": [
+        {
+            "text": "Getting Started",
+            "items": [
+                {
+                    "text": "From Startup Templates",
+                    "items": [
+                        {
+                            "text": "Application with MVC (Razor Pages) UI",
+                            "path": "Getting-Started-AspNetCore-MVC-Template.md"
+                        },
+                        {
+                            "text": "Application with Angular UI",
+                            "path": "Getting-Started-Angular-Template.md"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
